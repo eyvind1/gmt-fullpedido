@@ -14,10 +14,11 @@ export const environment = {
     messagingSenderId: "545299813599",
     appId: "1:545299813599:web:9d1b1b59b4439ab07d456a",
     measurementId: "G-MG7J2XFCQM"
-  };
+  },
 
   //var db = firebase.firestore();
 };
+//var db = firebase.firestore();
 
 /*
  * For easier debugging in development mode, you can import the following file
